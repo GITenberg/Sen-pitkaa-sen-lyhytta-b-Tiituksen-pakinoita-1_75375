@@ -1,0 +1,29 @@
+_repo: Sen-pitkaa-sen-lyhytta-b-Tiituksen-pakinoita-1_75375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivinen, Ilmari
+    alias: Tiitus
+    birthdate: 1883
+    deathdate: 1940
+    gutenberg_agent_id: '49690'
+    url: http://www.gutenberg.org/2009/agents/49690
+    wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kivinen
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75375'
+language: fi
+pgterms:marc905: 20250212232426tiitus
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sen pitkää, sen lyhyttä : $b Tiituksen pakinoita 1'
+url: http://www.gutenberg.org/ebooks/75375
